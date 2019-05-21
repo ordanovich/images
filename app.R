@@ -30,4 +30,4 @@ server <- function(input, output) {
 }
 
 # Complete app with UI and server components
-shinyApp(ui, server)
+# shinyApp(ui, server)
